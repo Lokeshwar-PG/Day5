@@ -1,3 +1,5 @@
+package com.functionalprograms;
+
 import java.io.*;
 import java.util.Scanner;
 

@@ -1,3 +1,5 @@
+package com.basiccoreprograms;
+
 import java.util.Scanner;
 
 public class PrimeFactors {

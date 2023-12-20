@@ -1,3 +1,5 @@
+package com.basiccoreprograms;
+
 import java.util.Scanner;
 
 import static java.lang.Math.pow;
